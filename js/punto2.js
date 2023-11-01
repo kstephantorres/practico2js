@@ -18,5 +18,5 @@ if(!isNaN(nota)){
     document.write("Número erróneo.<br>")
    }
 }else{
-    document.write("Introduce un número valido.<br>")
+    document.write("Introduce un número válido.<br>")
 }
