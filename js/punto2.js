@@ -1,4 +1,4 @@
-const nota = parseInt(prompt("Ingresa su nota: "))
+const nota = parseInt(prompt("2 - Ingresa su nota: "))
 if(!isNaN(nota)){
    if(nota<=10 && nota>=0){
     if(nota<=2) {

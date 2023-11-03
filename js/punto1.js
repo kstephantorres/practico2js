@@ -1,4 +1,4 @@
-const edad = parseInt(prompt("Ingresa tu edad: "))
+const edad = parseInt(prompt("1 - Ingresa tu edad: "))
 if(!isNaN(edad))
 {
     if(edad > 18){

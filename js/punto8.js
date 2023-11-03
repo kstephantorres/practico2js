@@ -1,7 +1,7 @@
-let cantidad= parseInt(prompt('7 - Ingrese un numero no mayor a 50: '))
-if(!isNaN(cantidad)){
-    if(cantidad<=50 && cantidad>=1){
-        for(let i=cantidad;i>0;i--){
+let cantidad8= parseInt(prompt('8 - Ingrese un numero no mayor a 50: '))
+if(!isNaN(cantidad8)){
+    if(cantidad8<=50 && cantidad8>=1){
+        for(let i=1;i<=cantidad8;i++){
             for(let j=0;j<i;j++){
                 document.write(i)
             }

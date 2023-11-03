@@ -1,5 +1,5 @@
     do{
-        const dni = parseInt(prompt('Ingrese DNI: '))
+        const dni = parseInt(prompt('5 - Ingrese DNI: '))
         if(!isNaN(dni)){
             if(dni>0 && dni<=99999999){
                 const numeroLetra= dni % 23
