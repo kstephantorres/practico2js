@@ -12,4 +12,4 @@ do{
     }
     
 }while(confirmacion)
-document.write(`La suma de los números ingresados es: ${acumulador}`)
+document.write(`La suma de los números ingresados es: ${acumulador}<br>`)
