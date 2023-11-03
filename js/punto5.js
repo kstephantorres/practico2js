@@ -59,4 +59,4 @@
             alert(`No introdujo un número`)
             }
     }while(confirm(`¿Desea continuar ingresando datos?`))
-  
+  document.write(`<br>`)
