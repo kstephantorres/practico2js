@@ -1,0 +1,1 @@
+alert(Math.trunc(Math.random()*100))
