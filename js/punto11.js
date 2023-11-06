@@ -17,7 +17,7 @@ for(let i=0;i<3;i++)
         }else{
         alert('No ingreso una edad valida. Intente de nuevo.')
         }
-        console.log(bandera)
+        
     }while(bandera)
 }
 

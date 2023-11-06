@@ -2,7 +2,7 @@ let acumulador=0
 let confirmacion=true
 do{
     let auxiliar = parseInt(prompt("4 - Ingrese un numero: "))
-    console.log(auxiliar)
+    
     if(!isNaN(auxiliar))
     {
         acumulador += auxiliar

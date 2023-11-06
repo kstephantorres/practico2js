@@ -3,7 +3,7 @@
         if(!isNaN(dni)){
             if(dni>0 && dni<=99999999){
                 const numeroLetra= dni % 23
-                console.log(numeroLetra)
+                
                 switch(numeroLetra){ 
                     case 0: document.write(`T`) 
                     break
