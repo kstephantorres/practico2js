@@ -7,7 +7,7 @@ for(let i=0;i<3;i++)
     let bandera=true
     nombres.push(prompt('11- Ingrese el nombre:'))
     do{
-        const edad= parseInt(prompt('11- Ingrese la edad: '))
+        const edad= parseInt(prompt('11 - Ingrese la edad: '))
         if(!isNaN(edad))
         {
             

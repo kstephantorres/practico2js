@@ -1,2 +1,2 @@
-const texto = prompt('Ingrese un texto')
+const texto = prompt('13 - Ingrese un texto')
 alert(texto.toUpperCase())
